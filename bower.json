@@ -1,0 +1,27 @@
+{
+  "name": "dependentJs",
+  "description": "Добавление зависимых от выбранного значения эелемента \"select\", полей формы.",
+  "version":"0.0.1",
+  "homepage": "https://github.com/ArtemsWay/dependentJs",
+  "authors": [
+    "artemsway <artemsway@gmail.com>"
+  ],
+  "main": "dist/jquery.dependentJs.min.js",
+  "keywords": [
+    "form",
+    "dependent",
+    "plugin",
+    "javasctipt",
+    "front-end",
+    "jquery"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "gulpfile.js"
+  ],
+  "dependencies": {
+    "jquery": ">= 1.9.1"
+  }
+}
